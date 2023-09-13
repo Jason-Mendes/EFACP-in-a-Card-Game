@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf444ae74e1e60f4aa1021051e66e2f7, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  hiddenRecallPointsAmount: 0100000001000000
+  turns:
+  - prompt: {fileID: 11400000, guid: 356f3014eeade3a47bbcd81c93359cb9, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 24f7d17295bcac9459d50796c816389b, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: bbf420e33ca9c7e4d8ef413d0b5543a6, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 3421a671e50df4e409db8a8fa0e89529, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: f6897e82e49876c4baf6f925e29e86f2, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: f1bb2261eaffda746b42f8437fcdbfa7, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 0
+  - prompt: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ae6fbe0ac97994d40b116dba638ee711, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 3a555a1536a27a8459cb6333a3e3b99e, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 8449d862ac5f2bf408a962ac0e4e17cd, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: b562d25bb4e0029449ee8430e73b8c25, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    recallTurnsBefore: 0
+  - prompt: {fileID: 11400000, guid: bca4411e7d403e046b99867bec0f0390, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 3421a671e50df4e409db8a8fa0e89529, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 1ef9471af6d298444a4fe7f8460eea39, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 0
+  - prompt: {fileID: 11400000, guid: 0c8396f18d735ad479225de55782af3d, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: bca4411e7d403e046b99867bec0f0390, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: f1bb2261eaffda746b42f8437fcdbfa7, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 466d8ab9e63e9bd4ea2c2f12e435b708, type: 2}
+      isCorrect: 1
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 3421a671e50df4e409db8a8fa0e89529, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 34680f1220e96754f898ce6635aa95c8, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 2
+  - prompt: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: a86625c51ddadd24a9f03efbc97791d1, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: bad541ad7c7534b4792319626b676254, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: bbb2f6c9ccd52cf4fb3105a3d326736a, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 43b2d8ec359a96442a12b324d2c688c2, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 1
+  - prompt: {fileID: 11400000, guid: 3a555a1536a27a8459cb6333a3e3b99e, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 43b2d8ec359a96442a12b324d2c688c2, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 0c8396f18d735ad479225de55782af3d, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: b2fbb22d0869a5740be36456354df5b3, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 356f3014eeade3a47bbcd81c93359cb9, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    recallTurnsBefore: 3
+  - prompt: {fileID: 11400000, guid: f1bb2261eaffda746b42f8437fcdbfa7, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 356f3014eeade3a47bbcd81c93359cb9, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 1ef9471af6d298444a4fe7f8460eea39, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: e2ba7d439d78bcf4cad6f861a677ada1, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: bad541ad7c7534b4792319626b676254, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: f04f8bfaac20a43449fd12f31fb7f5bf, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 3
+  - prompt: {fileID: 11400000, guid: 356f3014eeade3a47bbcd81c93359cb9, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 25619478fa871b1438b0cef973e89cba, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: bbf420e33ca9c7e4d8ef413d0b5543a6, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 3421a671e50df4e409db8a8fa0e89529, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: f6897e82e49876c4baf6f925e29e86f2, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: f1bb2261eaffda746b42f8437fcdbfa7, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 3
+  - prompt: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ae6fbe0ac97994d40b116dba638ee711, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 3a555a1536a27a8459cb6333a3e3b99e, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 8449d862ac5f2bf408a962ac0e4e17cd, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: b562d25bb4e0029449ee8430e73b8c25, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    recallTurnsBefore: 6
+  - prompt: {fileID: 11400000, guid: cd168c548522aef43b91c7c00bc78add, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: a86625c51ddadd24a9f03efbc97791d1, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 25619478fa871b1438b0cef973e89cba, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 1ef9471af6d298444a4fe7f8460eea39, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 5
+  - prompt: {fileID: 11400000, guid: 0c8396f18d735ad479225de55782af3d, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 3a555a1536a27a8459cb6333a3e3b99e, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: f1bb2261eaffda746b42f8437fcdbfa7, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 466d8ab9e63e9bd4ea2c2f12e435b708, type: 2}
+      isCorrect: 1
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 3421a671e50df4e409db8a8fa0e89529, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 34680f1220e96754f898ce6635aa95c8, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 6
+  - prompt: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: a86625c51ddadd24a9f03efbc97791d1, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: bad541ad7c7534b4792319626b676254, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: bbb2f6c9ccd52cf4fb3105a3d326736a, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 6257923fa1182e94591d273e70bee1f5, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 43b2d8ec359a96442a12b324d2c688c2, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 6
+  - prompt: {fileID: 11400000, guid: 3a555a1536a27a8459cb6333a3e3b99e, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 43b2d8ec359a96442a12b324d2c688c2, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 0c8396f18d735ad479225de55782af3d, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: b2fbb22d0869a5740be36456354df5b3, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 356f3014eeade3a47bbcd81c93359cb9, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ce2b4d2e7fa90c44e9e70d1962808728, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    recallTurnsBefore: 8
+  - prompt: {fileID: 11400000, guid: f1bb2261eaffda746b42f8437fcdbfa7, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 356f3014eeade3a47bbcd81c93359cb9, type: 2}
+      isCorrect: 0
+      isRecall: 1
+    - answer: {fileID: 11400000, guid: 1ef9471af6d298444a4fe7f8460eea39, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: e2ba7d439d78bcf4cad6f861a677ada1, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: bad541ad7c7534b4792319626b676254, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: f04f8bfaac20a43449fd12f31fb7f5bf, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 8

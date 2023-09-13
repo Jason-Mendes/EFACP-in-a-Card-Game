@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf444ae74e1e60f4aa1021051e66e2f7, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  hiddenRecallPointsAmount: 00000000
+  turns:
+  - prompt: {fileID: 11400000, guid: ef15d97d48cc97245b57337da6dc7424, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 24f7d17295bcac9459d50796c816389b, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 2c800fe5bed8ab1499d7bb8b134972c6, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 04d07238cd6617f4cb4092a6d6d1eed1, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: e5427418a22f549478699fdad926f830, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: be4b81be99f64d047b7663e5f845c71f, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 0
+  - prompt: {fileID: 11400000, guid: 12185826825f5f04080822abe58e5319, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 9174af7b36ed40b4c82d75777e6f7e89, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: b586d1f7a9d6c494bb44f7bb0c1e131c, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ec77c50a26ac5e44f8228ca665860aad, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: a8e934762fba98e4998f6f226ce69466, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 64b9d6600b9dd0446b8822ab4aff0475, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 0
+  - prompt: {fileID: 11400000, guid: f4471c5876805a045b92d0f78002f2e7, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: ff899dbc0baf09444aa054eb7fdf3a51, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 9812658286061f84dbba50390f30f876, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: e5a93fdb0d53b04419b46f3763bbc170, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: ec77c50a26ac5e44f8228ca665860aad, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 30a8c60a896ead146a130df05370ae3f, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 0
+  - prompt: {fileID: 11400000, guid: ccc41c9c72e86c0408213b84de098ffb, type: 2}
+    options:
+    - answer: {fileID: 11400000, guid: 9812658286061f84dbba50390f30f876, type: 2}
+      isCorrect: 1
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 43c4baaf833f7c24f8707335f2c7ce79, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: a8e934762fba98e4998f6f226ce69466, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: 64b9d6600b9dd0446b8822ab4aff0475, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    - answer: {fileID: 11400000, guid: c1020d18fa43be74aaa0c549c1f23b80, type: 2}
+      isCorrect: 0
+      isRecall: 0
+    recallTurnsBefore: 0
